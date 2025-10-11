@@ -21,5 +21,11 @@
 			</array>
 		</dict>
 	</dict>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Using to let you import photos</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Using to record speech</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Using to transcribe speech</string>
 </dict>
 </plist>
