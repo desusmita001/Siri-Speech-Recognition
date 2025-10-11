@@ -19,7 +19,7 @@ Siri Speech Recognition
 ![Screenshot 8](https://github.com/desusmita001/Siri-Speech-Recognition/blob/main/screenshots/8.png)
 
 # Recording speech "Its a happy day memory"
-![Screenshot 9](https://github.com/desusmita001/Siri-Speech-Recognition/blob/main/screenshots/9.png)
+![Screenshot 9](https://github.com/desusmita001/Siri-Speech-Recognition/blob/main/screenshots/9.PNG)
 
 # Search came out in Spotlight - for Happy Day Memory
 ![Screenshot 10](https://github.com/desusmita001/Siri-Speech-Recognition/blob/main/screenshots/10.png)
