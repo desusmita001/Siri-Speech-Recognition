@@ -9,6 +9,4 @@ Siri Speech Recognition
 ![Screenshot 5](https://github.com/desusmita001/Siri-Speech-Recognition/blob/main/screenshots/5.png)
 ![Screenshot 8](https://github.com/desusmita001/Siri-Speech-Recognition/blob/main/screenshots/8.png)
 ![Screenshot 9](https://github.com/desusmita001/Siri-Speech-Recognition/blob/main/screenshots/9.png)
-
-# Search in Spotlight iPhone 14 Pro
 ![Screenshot 10](https://github.com/desusmita001/Siri-Speech-Recognition/blob/main/screenshots/10.png)
