@@ -1,13 +1,13 @@
 # Siri-Speech-Recognition
 Siri Speech Recognition
 
-# Image Credit:
+# Credits:
 Images and thumbnails used in this project belong to Copyright © 2026 Susmita De
 This repository is provided for learning and reference purposes only.
 Unauthorized copying, modification, or distribution without prior written permission is prohibited.
 Commercial use is not permitted without explicit written consent from the author.
 
-####  The exercise has been inspired from book of Paul Hudson advanced-ios-1
+The exercise has been inspired from book of Paul Hudson Advanced iOS: Volume 1
 
 # Access photo library
 ![Screenshot 1](https://github.com/desusmita001/Siri-Speech-Recognition/blob/main/screenshots/1.png)
