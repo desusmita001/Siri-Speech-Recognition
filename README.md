@@ -7,6 +7,8 @@ This repository is provided for learning and reference purposes only.
 Unauthorized copying, modification, or distribution without prior written permission is prohibited.
 Commercial use is not permitted without explicit written consent from the author.
 
+# The exercise has been inspired from book ![Paul Hudson] (https://www.hackingwithswift.com/books/advanced-ios-1)
+
 # Access photo library
 ![Screenshot 1](https://github.com/desusmita001/Siri-Speech-Recognition/blob/main/screenshots/1.png)
 # Access Microphone
